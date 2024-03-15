@@ -1,0 +1,1 @@
+console.log("Agamon j price");.devcontainer/01_FirstFILE
